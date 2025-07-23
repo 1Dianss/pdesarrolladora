@@ -8,6 +8,6 @@
         "url": "https://quotes.toscrape.com/page/{}/"
     },
     "pagina":{
-        "pagina": 4
+        "pagina": 2
     }
 }
