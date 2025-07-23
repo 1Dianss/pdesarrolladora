@@ -1,0 +1,13 @@
+{
+    "verbose": {
+        "verbose": false,
+        "verbose_extend": false,
+        "show_navigator": false
+    },
+    "links":{
+        "url": "https://quotes.toscrape.com/page/{}/"
+    },
+    "pagina":{
+        "pagina": 4
+    }
+}
